@@ -1,6 +1,6 @@
 # Steps for Demonstraion 
 
-1.Craete Github Secerct access token  & keep safe with you 
+1. Create Github Secerct access token  & keep safe with you 
 
 # Create AWS VM 
  Ubuntu  ( 2 server-SonarQubes & Nexus )==>t2.medium ,(Common key pay pair) , storage = 20 Gb
