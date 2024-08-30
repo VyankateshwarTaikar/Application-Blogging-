@@ -115,8 +115,14 @@ keep these token safe with you .
 
 go to dashboard > name : Blogging-App > select pipeline 
 
-
+when you are writing pipelines and you are going to utilize lot of plugins tools right that means like maybe have configured Java we have configured MAVEN or so whichever plugin you want to utilize within your pipeline you need to manually Define it somewhere there are multiple ways of defining for example one way of defining MAVEN and Java is that I can use tools block inside that I can provide the details of that for example 
  
+tools {
+        jdk 'jdk17'
+        maven 'maven3'
+    }
+
+
 
 
 
