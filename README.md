@@ -86,6 +86,10 @@ login to SonarQube Server : by default ID & passwords are same as  :  admin
 ![image](https://github.com/user-attachments/assets/6faf03db-a447-4bcb-9e89-7064b51460eb)
 
 
+Install these plugins 
+
+![image](https://github.com/user-attachments/assets/ffe968fb-c3d3-494c-8da6-d937c5d764fc)
+
 
 
 
