@@ -49,7 +49,19 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 Install these plugins 
 
-![image](https://github.com/user-attachments/assets/ffe968fb-c3d3-494c-8da6-d937c5d764fc)
+![image](https://github.com/user-attachments/assets/e3ab3262-836d-4ecb-b494-57e17d63548d)
+
+
+Go to the Dashboard > Manage jenkins > Tools 
+
+ ![image](https://github.com/user-attachments/assets/dceb1a4c-d193-4936-80c0-392ce7641014)
+
+ ![image](https://github.com/user-attachments/assets/491cdef2-d802-408d-b91d-47bd5978ee4c)
+
+![image](https://github.com/user-attachments/assets/3de8066d-50d6-497b-94e8-174e824f3bc0)
+
+ ![image](https://github.com/user-attachments/assets/1bea6dd3-ee69-4c42-aed4-c12cc8ceaf8d)
+
 
 ## For Nexus :
 - Sudo apt update 
@@ -92,15 +104,19 @@ Genrate the token :
 
 Administration > security > genrate the token 
 
-![image](https://github.com/user-attachments/assets/a34f98b7-c3b3-4b6e-90cb-31ed4ff3f824)
+![image](https://github.com/user-attachments/assets/2e66823c-4e16-41a5-90f8-7ecfac446612)
+
 
 keep these token safe with you .
 
 
 
+## writing the CICD pipeline 
+
+go to dashboard > name : Blogging-App > select pipeline 
 
 
-
+ 
 
 
 
