@@ -81,6 +81,8 @@ $ sudo apt update
 
 ![image](https://github.com/user-attachments/assets/6fd23cdb-f00c-43a1-8f12-f7241e8b1af0) 
 
+login to SonarQube Server : by default ID & passwords are same as  :  admin 
+
 ![image](https://github.com/user-attachments/assets/6faf03db-a447-4bcb-9e89-7064b51460eb)
 
 
