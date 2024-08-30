@@ -9,7 +9,7 @@ Ubuntu  ( 2 server-jenkins & Nexus )==>t2.medium ,(Common key pay pair) , storag
 
 Ubuntu  (1 jenkins  )==>t2.large ,(Common key pay pair) , storage = 25 Gb 
 
-##  Security group should be open :  25 , 80 , 443 , 2000-3000 , 22, 6443, 465 
+##  Security group should be open :  25 , 80 , 443 , 2000-3000 , 22, 6443, 465 , 8080, 8081, 9000
 
 ![Screenshot_2](https://github.com/user-attachments/assets/92f51c4b-5bfe-469e-8b8c-2255856aab11) 
 
@@ -47,6 +47,23 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 ![image](https://github.com/user-attachments/assets/7bb57afe-9942-4906-bedc-c98adf2114d3)
 
+
+
+## For Nexus :
+- Sudo apt update 
+
+- Nexus create by docker container
+
+![image](https://github.com/user-attachments/assets/4fb28263-d243-40a5-8e3a-ce48a40db2aa) 
+
+create container 
+
+![image](https://github.com/user-attachments/assets/eb03378d-1e26-4543-a8cc-f68bcab0f0cf) 
+
+![image](https://github.com/user-attachments/assets/fe7816aa-e1b3-456b-8bb6-60ecd492706f)
+
+
+![image](https://github.com/user-attachments/assets/76f5fa67-7999-42dc-bc85-ed7344cb6cb7)
 
 
 
