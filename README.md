@@ -38,8 +38,14 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 ![image](https://github.com/user-attachments/assets/18126c18-93cc-4638-b036-c54381165790)
 
+![image](https://github.com/user-attachments/assets/e2a0436c-69c8-4416-b7a4-9c32cada195d)
 
 
+## run the jenkins & start the installation 
+
+![image](https://github.com/user-attachments/assets/52e02e19-f30c-48a7-80d2-dd39d6a59818)
+
+![image](https://github.com/user-attachments/assets/7bb57afe-9942-4906-bedc-c98adf2114d3)
 
 
 
