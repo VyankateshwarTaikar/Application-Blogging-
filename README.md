@@ -31,9 +31,26 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 ## Create file, paste it & run the file 
 
+![image](https://github.com/user-attachments/assets/2a1b6599-6dc6-4a21-b283-0053287ab787) 
+
+![image](https://github.com/user-attachments/assets/befd40cf-1016-4074-878a-5ba129ffb63e)
+
+```sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
+  https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
+  https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt-get update
+sudo apt-get install jenkins ```
 
 
-![image](https://github.com/user-attachments/assets/2a1b6599-6dc6-4a21-b283-0053287ab787)
+
+
+
+
+
+
+
 
 
 
