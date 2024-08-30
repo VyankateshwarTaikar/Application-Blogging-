@@ -65,7 +65,23 @@ create container
 
 ![image](https://github.com/user-attachments/assets/76f5fa67-7999-42dc-bc85-ed7344cb6cb7)
 
+## login inside nexus container & keep safe the nexus password with you 
 
+![image](https://github.com/user-attachments/assets/2bc9a198-ccd6-4cb0-92a0-934b601bef54)
+
+![image](https://github.com/user-attachments/assets/7c379055-0df9-4c7b-b3bb-86a2dd71eb7d)
+
+
+
+## for same thing do with SonarQube
+
+$ sudo apt update 
+
+- install docker on machine & then SonarQube container 
+
+![image](https://github.com/user-attachments/assets/6fd23cdb-f00c-43a1-8f12-f7241e8b1af0) 
+
+![image](https://github.com/user-attachments/assets/6faf03db-a447-4bcb-9e89-7064b51460eb)
 
 
 
