@@ -47,7 +47,9 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 ![image](https://github.com/user-attachments/assets/7bb57afe-9942-4906-bedc-c98adf2114d3)
 
+Install these plugins 
 
+![image](https://github.com/user-attachments/assets/ffe968fb-c3d3-494c-8da6-d937c5d764fc)
 
 ## For Nexus :
 - Sudo apt update 
@@ -86,10 +88,13 @@ login to SonarQube Server : by default ID & passwords are same as  :  admin
 ![image](https://github.com/user-attachments/assets/6faf03db-a447-4bcb-9e89-7064b51460eb)
 
 
-Install these plugins 
+Genrate the token :
 
-![image](https://github.com/user-attachments/assets/ffe968fb-c3d3-494c-8da6-d937c5d764fc)
+Administration > security > genrate the token 
 
+![image](https://github.com/user-attachments/assets/a34f98b7-c3b3-4b6e-90cb-31ed4ff3f824)
+
+keep these token safe with you .
 
 
 
