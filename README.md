@@ -27,6 +27,7 @@ Update all the servers by
 -install jenkins  
 
 Go tho the jenkins official website & copy it 
+web : https://www.jenkins.io/doc/book/installing/linux/ 
 
 ## Create file, paste it & run the file 
 
@@ -38,9 +39,9 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
 sudo apt-get update
 sudo apt-get install jenkins   ```
 
-![image](https://github.com/user-attachments/assets/61abc18a-9845-4b0e-99dd-5de07a542944) 
+![image](https://github.com/user-attachments/assets/a687f1e5-2225-4fa6-8f69-127816241657) 
 
-![image](https://github.com/user-attachments/assets/3e3d6554-a646-4689-9b49-08f160aece1c) 
+ 
 
 
 
