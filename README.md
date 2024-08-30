@@ -39,7 +39,7 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" \
 sudo apt-get update
 sudo apt-get install jenkins   ```
 
-![image](https://github.com/user-attachments/assets/a687f1e5-2225-4fa6-8f69-127816241657) 
+
 
  
 
