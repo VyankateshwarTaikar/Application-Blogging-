@@ -33,11 +33,7 @@ web : https://www.jenkins.io/doc/book/installing/linux/
 
 
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/2a1b6599-6dc6-4a21-b283-0053287ab787)
 
 
 
