@@ -116,12 +116,31 @@ keep these token safe with you .
 go to dashboard > name : Blogging-App > select pipeline 
 
 when you are writing pipelines and you are going to utilize lot of plugins tools right that means like maybe have configured Java we have configured MAVEN or so whichever plugin you want to utilize within your pipeline you need to manually Define it somewhere there are multiple ways of defining for example one way of defining MAVEN and Java is that I can use tools block inside that I can provide the details of that for example 
- 
-tools {
-        jdk 'jdk17'
-        maven 'maven3'
-    }
 
+
+ 1. Go to the script & choose the hello world
+    
+![image](https://github.com/user-attachments/assets/45ca16dc-f3ae-48d2-afdf-6d3cb29cbc76) 
+
+2. Do the Git checkout for that purpose choose pipeline syntax
+   sample step : git:Git
+   insert the Repository URL
+   choose proper branch (main or master)
+   Add the Credential (if not then add ) -for adding putting username as GithubUserName & password will be genrated Screct accesss token 
+
+![Screenshot_22](https://github.com/user-attachments/assets/8cfabc8e-9a5d-4941-99fd-a91e6d5af3e4)
+
+
+![Screenshot_23](https://github.com/user-attachments/assets/a8f00d00-49aa-44a8-83f2-8828330dbbf0)
+
+![Screenshot_24](https://github.com/user-attachments/assets/f483fbf9-0c87-487b-8d0f-a3d99dfbb3ed)
+
+## Now, install trivy on jekins server 
+
+link: https://aquasecurity.github.io/trivy/v0.18.3/installation/#debianubuntu
+
+
+![Screenshot_25](https://github.com/user-attachments/assets/62e9cbb2-061a-4446-8757-92e7d1f6f3cc)
 
 
 
