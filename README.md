@@ -19,7 +19,7 @@ Update all the servers by
 
 ``` sudo apt update ```
 
-# Jenkins Server :
+ ## 1. Jenkins Server :
 - install Java17
   
 ```  sudo apt install openjdk-17-jre-headless    ```
@@ -28,7 +28,7 @@ Update all the servers by
 
 Go tho the jenkins official website & copy it 
 
-# Create file, paste it & run the file 
+## Create file, paste it & run the file 
 
 ```  sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
