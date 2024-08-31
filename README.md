@@ -20,6 +20,7 @@ Update all the servers by
 ``` sudo apt update ```
 
  ## 1. Jenkins Server :
+ 
 - install Java17
   
 ```  sudo apt install openjdk-17-jre-headless    ```
@@ -27,6 +28,7 @@ Update all the servers by
 -install jenkins  
 
 Go tho the jenkins official website & copy it 
+
 web : https://www.jenkins.io/doc/book/installing/linux/ 
 
 ## Create file, paste it & run the file 
@@ -126,9 +128,13 @@ when you are writing pipelines and you are going to utilize lot of plugins tools
 ![image](https://github.com/user-attachments/assets/45ca16dc-f3ae-48d2-afdf-6d3cb29cbc76) 
 
 2. Do the Git checkout for that purpose choose pipeline syntax
+
    sample step : git:Git
+   
    insert the Repository URL
+   
    choose proper branch (main or master)
+   
    Add the Credential (if not then add ) -for adding putting username as GithubUserName & password will be genrated Screct accesss token 
 
 ![Screenshot_22](https://github.com/user-attachments/assets/8cfabc8e-9a5d-4941-99fd-a91e6d5af3e4)
