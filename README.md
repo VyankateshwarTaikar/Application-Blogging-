@@ -5,7 +5,7 @@
 # Create AWS VM 
  Ubuntu  ( 2 server-SonarQubes & Nexus )==>t2.medium ,(Common key pay pair) , storage = 20 Gb
 
-Ubuntu  ( 2 server-jenkins & Nexus )==>t2.medium ,(Common key pay pair) , storage = 20 Gb
+Ubuntu  ( 1 server-jenkins )==> t2.medium ,(Common key pay pair) , storage = 20 Gb
 
 Ubuntu  (1 jenkins  )==>t2.large ,(Common key pay pair) , storage = 25 Gb 
 
