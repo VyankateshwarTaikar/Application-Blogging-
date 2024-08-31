@@ -217,7 +217,12 @@ Note the following things(Make Sure That Of):
 
 
    if the file is present there means the configrations are done .
-    ===  So due to which Jenkins will be able to Communicate with Nexus
+  
+   ===  So due to which Jenkins will be able to Communicate with Nexus
+
+## Now We need To Publish the Artifact to Nexus repository for write a code inside by pipeline 
+
+![Screenshot_41](https://github.com/user-attachments/assets/54fb0cda-ea40-425d-93b9-b95320ebae48)
 
 
      
