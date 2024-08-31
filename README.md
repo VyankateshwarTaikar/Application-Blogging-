@@ -146,6 +146,7 @@ link: https://aquasecurity.github.io/trivy/v0.18.3/installation/#debianubuntu
 ![Screenshot_25](https://github.com/user-attachments/assets/62e9cbb2-061a-4446-8757-92e7d1f6f3cc)
 
 
+![Screenshot_46](https://github.com/user-attachments/assets/4cbcfb9a-6483-4f21-834c-51c9b7bada38)
 
 
 
