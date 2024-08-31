@@ -242,5 +242,18 @@ So change the settings for the maven-repositories
 
 Go To Maven-Repositories > Deployment Policy  > Allow Redeploy .
 
+![image](https://github.com/user-attachments/assets/1a2d471f-6a93-4351-90ea-81b910984af6)
 
-     
+## Now Create the docker image & Push to the Docker Hub
+
+Now  Create a Private Repo to the DockerHub 
+
+![Screenshot_42](https://github.com/user-attachments/assets/e0d3854e-1f80-4241-ab06-c90195070622)
+
+     ![Screenshot_43](https://github.com/user-attachments/assets/085f5293-bf8c-43d2-b7e5-36adb7ad30d8)
+
+
+![Screenshot_44](https://github.com/user-attachments/assets/4520df60-45b7-46c1-bbd6-19879ac5eff2) 
+
+
+
