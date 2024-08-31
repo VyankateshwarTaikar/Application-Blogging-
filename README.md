@@ -168,7 +168,50 @@ SonarQube Scanner - Scanner will be installed within jenkins because it will per
 
 for script :: 
 
-![image](https://github.com/user-attachments/assets/dd771f3d-6e5a-48ef-8a80-5fc2a69ae0e2)
+![image](https://github.com/user-attachments/assets/dd771f3d-6e5a-48ef-8a80-5fc2a69ae0e2) 
+
+##  Sonarqube anylysis & build the packages 
 
 ![Screenshot_30](https://github.com/user-attachments/assets/f1105fc8-bd56-4fa1-8817-1f08b4f285a6)  
 
+
+# Now as the Artifact build in the server that we need to publish in Nexus server 
+
+## for Publishing the artifact you need to do following steps :
+
+Note the following things(Make Sure That Of):
+- 1. Jenkins should connect / Communicate to the Nexus Repository 
+- 2. URL of Nexus repository & Credential avaliable to Utlized.
+
+  For that purpose you need to go to the pom.xml file & add the Distribution Management.
+   - For that You required ID & URL
+     so you have to go to the Nexus > Browse > Maven-Releases  & go to the Nexus > Browse > Maven-Snapshots
+
+     ++ Copy that URL & Paste in Pom.Xml
+
+     ![Screenshot_31](https://github.com/user-attachments/assets/33685860-e012-4d25-996f-7efd4e65755c)
+
+     ## Now You Have To Add Credentials in Jenkins
+
+     Go to jenkins & follow the steps
+
+     ![Screenshot_32](https://github.com/user-attachments/assets/403cbb0b-2742-4bc3-94bc-84330c770f97)
+
+     ![Screenshot_33](https://github.com/user-attachments/assets/1a96c6be-d5d8-4f23-a839-7a3c98c981b7)
+
+     ![Screenshot_34](https://github.com/user-attachments/assets/ac05c2a0-dcc0-40cb-ba29-970375d53722) 
+
+    ![Screenshot_37](https://github.com/user-attachments/assets/309f576b-ad16-4987-b69d-9633b2dfb26c)
+
+    ![Screenshot_38](https://github.com/user-attachments/assets/ceff3a63-0259-46ab-8979-0d27a5891bc7)
+
+    ![Screenshot_39](https://github.com/user-attachments/assets/0c25b942-8487-4f71-ae88-e7aece78d019)
+
+    ![Screenshot_40](https://github.com/user-attachments/assets/00b9213d-9d1f-4647-9180-ee6c2fc3a403)
+
+
+   if the file is present there means the configrations are done .
+    ===  So due to which Jenkins will be able to Communicate with Nexus
+
+
+     
