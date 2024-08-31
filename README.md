@@ -248,9 +248,11 @@ Go To Maven-Repositories > Deployment Policy  > Allow Redeploy .
 
 Now  Create a Private Repo to the DockerHub 
 
-![Screenshot_42](https://github.com/user-attachments/assets/e0d3854e-1f80-4241-ab06-c90195070622)
+![Screenshot_42](https://github.com/user-attachments/assets/e0d3854e-1f80-4241-ab06-c90195070622) 
 
-     ![Screenshot_43](https://github.com/user-attachments/assets/085f5293-bf8c-43d2-b7e5-36adb7ad30d8)
+
+![Screenshot_43](https://github.com/user-attachments/assets/db1d1f71-e945-4a43-83c1-87ed8039878e)
+
 
 
 ![Screenshot_44](https://github.com/user-attachments/assets/4520df60-45b7-46c1-bbd6-19879ac5eff2) 
