@@ -152,4 +152,23 @@ link: https://aquasecurity.github.io/trivy/v0.18.3/installation/#debianubuntu
 ![image](https://github.com/user-attachments/assets/f5550868-5464-4333-8fec-34eddc52b8b0)
 
 
+## For , writing SonarQube server steps . go with pipeline script 
+
+SonarQube server - The things which are configured (inside jenkins Dashboard > Managed jenkins > System > SonarQube server --= Name = sonar-server & URL after authentication token  ) 
+
+ ![Screenshot_27](https://github.com/user-attachments/assets/2fbd78ba-4212-4e82-950a-a10d1196779c)
+
+whichever tool you are using , ou need to mention it  in pipeline 
+
+![Screenshot_29](https://github.com/user-attachments/assets/465c11ef-6276-4425-b234-bde743e75a28)
+
+
+SonarQube Scanner - Scanner will be installed within jenkins because it will perform the Anlysis , Genrate the report & that will publish on sonarqube server.
+
+
+for script :: 
+
+![image](https://github.com/user-attachments/assets/dd771f3d-6e5a-48ef-8a80-5fc2a69ae0e2)
+
+![Screenshot_30](https://github.com/user-attachments/assets/f1105fc8-bd56-4fa1-8817-1f08b4f285a6)  
 
