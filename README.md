@@ -164,7 +164,7 @@ SonarQube server - The things which are configured (inside jenkins Dashboard > M
 
  ![Screenshot_27](https://github.com/user-attachments/assets/2fbd78ba-4212-4e82-950a-a10d1196779c)
 
-whichever tool you are using , ou need to mention it  in pipeline 
+whichever tool you are using , you need to mention it  in pipeline 
 
 ![Screenshot_29](https://github.com/user-attachments/assets/465c11ef-6276-4425-b234-bde743e75a28)
 
