@@ -226,5 +226,21 @@ Note the following things(Make Sure That Of):
 
 ![image](https://github.com/user-attachments/assets/112faaeb-1e13-44a2-8323-11298adfcb0d)
 
+Now , Check with it . is that you are right track or not .
+
+So run the pipeline for Build.
+
+After the sucessful build with jwnkins pipeline , check with it as the build is propely move to the nexus repository.
+
+![image](https://github.com/user-attachments/assets/bdcc007d-d15a-48a5-b168-ea006ebfc765)
+
+You can check as the artifact build & moved the sucessfully .
+
+But , once again as you try to build it . it will gives the error. so for that purpose you Manage the settings of the Nexus storage snapshot 
+
+So change the settings for the maven-repositories
+
+Go To Maven-Repositories > Deployment Policy  > Allow Redeploy .
+
 
      
