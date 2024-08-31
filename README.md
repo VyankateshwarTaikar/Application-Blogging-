@@ -119,6 +119,9 @@ when you are writing pipelines and you are going to utilize lot of plugins tools
 
 
  1. Go to the script & choose the hello world
+
+![image](https://github.com/user-attachments/assets/189f1b78-1301-4ab9-ae4a-16cd95d2951e)
+
     
 ![image](https://github.com/user-attachments/assets/45ca16dc-f3ae-48d2-afdf-6d3cb29cbc76) 
 
